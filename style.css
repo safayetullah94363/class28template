@@ -1,0 +1,91 @@
+a{
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+.header-logo{
+    width: 85px;
+}
+.bg-colore{
+    background: #f9f9ff;
+}
+.contante{
+    margin-top: 130px;
+}
+
+.contante h2{
+    padding: 10px 0;
+}
+.contante p{
+    padding: 10px 0;
+}
+/* contente-right */
+.contente-right{
+    margin-top: 85px;
+}
+
+/* conunter part css */
+.counter-section{
+    background: #8490ff;
+}
+.countable p{
+    color: #fff;
+    
+}
+/* start-part css */
+.start-app-section {
+    background: #f9f9ff;
+}
+.bodi{
+    position: relative;
+}
+.bodi img{
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: -50px;
+    margin-left: 12px;
+}
+.bodi h1{
+    height: 100px;
+    width: 100px;
+    background: #ddd;
+    text-align: center;
+    line-height: 98px;
+    border-radius: 50%;
+    margin: auto;
+}
+.card-body{
+    margin-left: 0 ;
+    padding-left: 0 ;
+}
+.card-box {
+    margin: 0 41px;
+    border: none;
+}
+
+/*  */
+.image-div img{
+    width: 96px;
+    position: relative;
+    top: 34px;
+    left: 13px;
+    border-radius: 2px;
+}
+
+/* footer part css */
+.footer{
+    color: #fff;
+    font-size: 1.3rem;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+/*  */
+.end-section-right{
+    margin-top: 40px;
+}
+
+
